@@ -4,7 +4,7 @@ permalink: /software/
 title: "Software"
 ---
 
-I have written three R packages for the novel methodologies developed in my research. They are all available for free at CRAN.
+I have written three R packages for the novel methodologies developed in my research. They are all available at CRAN.
 
 # Endogeneity [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/endogeneity)](https://CRAN.R-project.org/package=endogeneity)
 
