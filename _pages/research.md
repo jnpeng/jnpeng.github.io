@@ -29,9 +29,6 @@ My research primarily uses empirical data to study the social and economic impac
 ## Selected Working Papers
 
 -   Jing Peng and Christophe Van den Bulte. [Participation vs. Effectiveness in Sponsored Tweet Campaigns: A Quality-Quantity Conundrum](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2702053). Minor Revision at *Management Science*.
-
 -   Hongfei Li, Jing Peng, Gang Wang, and Xue Bai. The Impact of Process- Versus Outcome-Oriented Reviews on the Sales of Healthcare Services. Under 3rd Round Review at *Information Systems Research*.
-
 -   Huiyan Chen, Jing Peng, Hongfei Li, and Ramesh Shankar. [Impact of Refund Policy on Sales of Paid Information Services: The Moderating Role of Product Characteristics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4114972). Reject & Resubmit at *Information Systems Research*.
-
 -   Huiyan Chen, Jing Peng, Jan Stallaert, and Sulin Ba. [Unleashing the Power of Teamwork: Evidence from Machine Learning Contests](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4376582). Under Review.
