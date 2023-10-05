@@ -25,7 +25,7 @@ My research primarily uses empirical data to study the social and economic impac
 <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
 <ol>
   <div class="filterDiv social-media methodology"><li>Jing Peng and Christophe Van den Bulte. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2702053">Participation vs. Effectiveness in Sponsored Tweet Campaigns: A Quality-Quantity Conundrum</a>. <em>Management Science</em> (forthcoming).</li></div>
-  <div class="filterDiv ecommerce machine-learning"><li>Jing Peng and Chen Liang (2023) <a href="https://misq.umn.edu/on-the-differences-between-view-based-and-purchase-based-recommender-systems.html">On the Differences Between View-Based and Purchase-Based Recommender Systems</a>. <em>MIS Quarterly</em>, 47(2):875-900.</li></div>
+  <div class="filterDiv ecommerce machine-learning"><li>Jing Peng and Chen Liang (2023) <a href="https://doi.org/10.25300/MISQ/2022/17875">On the Differences Between View-Based and Purchase-Based Recommender Systems</a>. <em>MIS Quarterly</em>, 47(2):875-900.</li></div>
   <div class="filterDiv gig-economy"><li>Chen Liang, Jing Peng, YiliHong, and Bin Gu (2023) <a href="https://pubsonline.informs.org/doi/10.1287/isre.2022.1130">The Hidden Costs and Benefits of Monitoring in the Gig Economy</a>. <em>Information Systems Research</em>, 34(1):297-318.</li></div>
   <div class="filterDiv ecommerce digital-health"><li>Hongfei Li, Jing Peng, Xinxin Li, and Jan Stallaert (2023) <a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.1129">When More Can Be Less: The Effect of Add-on Insurance on the Consumption of Professional Services</a>. <em>Information Systems Research</em>, 34(1):363-382.</li></div>
   <div class="filterDiv methodology"><li>Jing Peng (2023) <a href="https://pubsonline.informs.org/doi/10.1287/isre.2022.1113">Identification of Causal Mechanisms from Randomized Experiments: A Framework for Endogenous Mediation Analysis</a>. <em>Information Systems Research</em>, 34(1):67-84.</li></div>
@@ -46,9 +46,9 @@ My research primarily uses empirical data to study the social and economic impac
 <ul>
   <div class="filterDiv working social-media ecommerce digital-health machine-learning"><li>Hongfei Li, Jing Peng, Gang Wang, and Xue Bai. The Impact of Process- Versus Outcome-Oriented Reviews on the Sales of Healthcare Services. Under Revision for 4th Round Review at <em>Information Systems Research</em>.</li></div>
   <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Jing Peng, Hongfei Li, and Ramesh Shankar. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4114972">Impact of Refund Policy on Sales of Paid Information Services: The Moderating Role of Product Characteristics</a>. Reject &amp; Resubmit at <em>Information Systems Research</em>.</li></div>
-  <div class="filterDiv working gig-economy"><li>Huiyan Chen, Jing Peng, Jan Stallaert, and Sulin Ba. <a href="https://ssrn.com/abstract=4376582">The Value of Teamwork: Evidence from Crowdsourcing Contests</a>.</li></div>
-  <div class="filterDiv working ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Impact of Medical AI on Drug Purchases.</li></div>
-  <div class="filterDiv working ecommerce"><li>Huiyan Chen, Jing Peng, Mengcheng Guan, and Jianbin Li. Team Purchase as a Marketing Strategy.</li></div>
+  <div class="filterDiv working ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Impact of Medical AI on Drug Purchases. Under Review.</li></div>
+  <div class="filterDiv working ecommerce"><li>Huiyan Chen, Jing Peng, Mengcheng Guan, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4592999">Team Purchase as a Marketing Strategy. Under Review.</li></div>
+  <div class="filterDiv working gig-economy"><li>Huiyan Chen, Jing Peng, Jan Stallaert, and Sulin Ba. <a href="https://ssrn.com/abstract=4376582">The Value of Teamwork: Evidence from Crowdsourcing Contests</a>.</li></div>  
 </ul>
 
 

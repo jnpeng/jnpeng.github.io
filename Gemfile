@@ -15,6 +15,7 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
+
 # gem 'liquid', '~> 4.0', '>= 4.0.4'
 
 # Fix issue https://stackoverflow.com/questions/51069616/jekyll-3-7-3-error-no-source-of-timezone-data-could-be-found
