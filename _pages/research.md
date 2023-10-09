@@ -44,8 +44,8 @@ My research primarily uses empirical data to study the social and economic impac
 
 
 <ul>
-  <div class="filterDiv working social-media ecommerce digital-health machine-learning"><li>Hongfei Li, Jing Peng, Gang Wang, and Xue Bai. The Impact of Process- Versus Outcome-Oriented Reviews on the Sales of Healthcare Services. Under Revision for 4th Round Review at <em>Information Systems Research</em>.</li></div>
-  <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Jing Peng, Hongfei Li, and Ramesh Shankar. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4114972">Impact of Refund Policy on Sales of Paid Information Services: The Moderating Role of Product Characteristics</a>. Reject &amp; Resubmit at <em>Information Systems Research</em>.</li></div>
+  <div class="filterDiv working social-media ecommerce digital-health machine-learning"><li>Hongfei Li, Jing Peng, Gang Wang, and Xue Bai. <a href="https://ssrn.com/abstract=3255097">The Impact of Process- Versus Outcome-Oriented Reviews on the Sales of Healthcare Services</a>. Under 4th Round Review at <em>Information Systems Research</em>.</li></div>
+  <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Jing Peng, Hongfei Li, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refund Policy on Sales of Paid Information Services: The Moderating Role of Product Characteristics</a>. Reject &amp; Resubmit at <em>Information Systems Research</em>.</li></div>
   <div class="filterDiv working ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Impact of Medical AI on Drug Purchases. Under Review.</li></div>
   <div class="filterDiv working ecommerce"><li>Huiyan Chen, Jing Peng, Mengcheng Guan, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4592999">Team Purchase as a Marketing Strategy</a>. Under Review.</li></div>
   <div class="filterDiv working gig-economy"><li>Huiyan Chen, Jing Peng, Jan Stallaert, and Sulin Ba. <a href="https://ssrn.com/abstract=4376582">The Value of Teamwork: Evidence from Crowdsourcing Contests</a>.</li></div>  
