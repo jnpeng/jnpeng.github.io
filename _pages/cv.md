@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<iframe src="https://www-business.media.uconn.edu/wp-content/uploads/sites/969/2016/08/Peng-CV-Jan-2024.pdf" width="100%" height="600" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
+Download [CV](https://www-business.media.uconn.edu/wp-content/uploads/sites/969/2016/08/Peng-CV-Jan-2024.pdf)
