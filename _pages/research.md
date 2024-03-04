@@ -24,7 +24,7 @@ My research primarily uses empirical data to study the social and economic impac
 
 <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
 <ol>
-  <div class="filterDiv social-media ecommerce digital-health machine-learning"><li>Hongfei Li, Jing Peng, Gang Wang, and Xue Bai. <a href="https://ssrn.com/abstract=3255097">The Impact of Process- Versus Outcome-Oriented Reviews on the Sales of Healthcare Services</a>. <em>Information Systems Research</em> (forthcoming).</li></div>
+  <div class="filterDiv social-media ecommerce digital-health machine-learning"><li>Hongfei Li, Jing Peng, Gang Wang, and Xue Bai. <a href="https://doi.org/10.1287/isre.2019.0168">The Impact of Process- vs. Outcome-Oriented Reviews on the Sales of Healthcare Services</a>. <em>Information Systems Research</em> (forthcoming).</li></div>
   <div class="filterDiv social-media methodology"><li>Jing Peng and Christophe Van den Bulte. <a href="https://doi.org/10.1287/mnsc.2019.01897">Participation vs. Effectiveness in Sponsored Tweet Campaigns: A Quality-Quantity Conundrum</a>. <em>Management Science</em> (forthcoming).</li></div>
   <div class="filterDiv ecommerce machine-learning"><li>Jing Peng and Chen Liang (2023) <a href="https://doi.org/10.25300/MISQ/2022/17875">On the Differences Between View-Based and Purchase-Based Recommender Systems</a>. <em>MIS Quarterly</em>, 47(2):875-900.</li></div>
   <div class="filterDiv gig-economy"><li>Chen Liang, Jing Peng, YiliHong, and Bin Gu (2023) <a href="https://pubsonline.informs.org/doi/10.1287/isre.2022.1130">The Hidden Costs and Benefits of Monitoring in the Gig Economy</a>. <em>Information Systems Research</em>, 34(1):297-318.</li></div>
@@ -45,7 +45,7 @@ My research primarily uses empirical data to study the social and economic impac
 
 
 <ul>
-  <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Jing Peng, Hongfei Li, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refund Policy on Sales of Paid Information Services: The Moderating Role of Product Characteristics</a>.</li></div>
+  <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Hongfei Li, Jing Peng, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refundability on Sales of Digital Knowledge Products: The Moderating Role of Product Characteristics</a>.</li></div>
   <div class="filterDiv working ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Impact of Medical AI on Drug Purchases.</li></div>
   <div class="filterDiv working ecommerce"><li>Huiyan Chen, Jing Peng, Mengcheng Guan, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4592999">Team Purchase as a Marketing Strategy</a>.</li></div>
   <div class="filterDiv working gig-economy"><li>Huiyan Chen, Jing Peng, Jan Stallaert, and Sulin Ba. <a href="https://ssrn.com/abstract=4376582">The Value of Teamwork: Evidence from Crowdsourcing Contests</a>.</li></div>  
