@@ -47,10 +47,10 @@ Beyond empirical research, I have a deep interest in developing methodologies to
 
 
 <ul>
-  <div class="filterDiv working methodology machine-learning"><li>Jing Peng. <a href="https://papers.ssrn.com/abstract=4772060">Machine Learning for Causal Inference: Is a Nonlinear First Stage Really Forbidden in 2SLS?</a>.</li></div>
+  <div class="filterDiv working methodology machine-learning"><li>Jing Peng. <a href="https://papers.ssrn.com/abstract=4772060">Machine Learning for Causal Inference: Is a Nonlinear First Stage Really Forbidden in 2SLS?</a></li></div>
   <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Hongfei Li, Jing Peng, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refundability on Sales of Digital Knowledge Products: The Moderating Role of Product Characteristics</a>.</li></div>
   <div class="filterDiv working ecommerce"><li>Huiyan Chen, Jing Peng, Mengcheng Guan, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4592999">Discounting to Win? The Impact of Team Purchase on Seller Performance</a>.</li></div>
-  <div class="filterDiv working ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Impact of Medical AI on Drug Purchases.</li></div>
+  <div class="filterDiv working ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions.</li></div>
   <div class="filterDiv working gig-economy"><li>Huiyan Chen, Jing Peng, Jan Stallaert, and Sulin Ba. <a href="https://ssrn.com/abstract=4376582">The Value of Teamwork: Evidence from Crowdsourcing Contests</a>.</li></div>  
 </ul>
 
