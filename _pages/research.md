@@ -18,6 +18,7 @@ Beyond empirical research, I have a deep interest in developing methodologies to
   <button class="btn" onclick="filterSelection('social-media')"> Social Media</button>
   <button class="btn" onclick="filterSelection('gig-economy')"> Gig Economy</button>
   <button class="btn" onclick="filterSelection('digital-health')"> Digital Health</button>
+  <button class="btn" onclick="filterSelection('AI')"> AI</button>
   <button class="btn" onclick="filterSelection('methodology')"> Methodology</button>
   <button class="btn" onclick="filterSelection('machine-learning')"> Machine Learning</button>
 </div>
@@ -48,9 +49,10 @@ Beyond empirical research, I have a deep interest in developing methodologies to
 
 <ul>
   <div class="filterDiv working methodology machine-learning"><li>Jing Peng. <a href="https://papers.ssrn.com/abstract=4772060">Machine Learning for Causal Inference: Is a Nonlinear First Stage Really Forbidden in 2SLS?</a></li></div>
+  <div class="filterDiv working AI gig-economy"><li>Chen Liang, Jing Peng, Zhuoyan Li, and Ming Yin. <a href="https://papers.ssrn.com/abstract_id=4825716">The Valuation Paradox of Generative AI: Evidence from Gig Workers</a>.</li></div>
   <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Hongfei Li, Jing Peng, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refundability on Sales of Digital Knowledge Products: The Moderating Role of Product Characteristics</a>.</li></div>
   <div class="filterDiv working ecommerce"><li>Huiyan Chen, Jing Peng, Mengcheng Guan, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4592999">Discounting to Win? The Impact of Team Purchase on Seller Performance</a>.</li></div>
-  <div class="filterDiv working ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions.</li></div>
+  <div class="filterDiv working AI ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions.</li></div>
   <div class="filterDiv working gig-economy"><li>Huiyan Chen, Jing Peng, Jan Stallaert, and Sulin Ba. <a href="https://ssrn.com/abstract=4376582">The Value of Teamwork: Evidence from Crowdsourcing Contests</a>.</li></div>  
 </ul>
 
