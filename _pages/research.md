@@ -14,11 +14,11 @@ Beyond empirical research, I have a deep interest in developing methodologies to
 <!-- Control buttons -->
 <div id="myBtnContainer">
   <button class="btn active" onclick="filterSelection('all')"> All </button>
-  <button class="btn" onclick="filterSelection('ecommerce')"> E-commerce</button>
+  <button class="btn" onclick="filterSelection('ecommerce')"> Ecommerce</button>
   <button class="btn" onclick="filterSelection('social-media')"> Social Media</button>
   <button class="btn" onclick="filterSelection('gig-economy')"> Gig Economy</button>
   <button class="btn" onclick="filterSelection('digital-health')"> Digital Health</button>
-  <button class="btn" onclick="filterSelection('AI')"> AI</button>
+  <button class="btn" onclick="filterSelection('AI')"> Artificial Intelligence</button>
   <button class="btn" onclick="filterSelection('methodology')"> Methodology</button>
   <button class="btn" onclick="filterSelection('machine-learning')"> Machine Learning</button>
 </div>
