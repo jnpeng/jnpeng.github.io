@@ -55,7 +55,6 @@ Beyond empirical research, I have a deep interest in developing methodologies to
   <div class="filterDiv working ecommerce"><li>Huiyan Chen, Jing Peng, Mengcheng Guan, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4592999">Discounting to Win? The Impact of Team Purchase on Seller Performance</a>.</li></div>
   <div class="filterDiv working AI ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions.</li></div>
   <div class="filterDiv AI"><li>Zishun Qian, Jing Peng, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4957042">The Impact of Generative AI Announcements on Suppliers: Evidence from the Stock Market</a>.</li></div>
-/*  <div class="filterDiv working gig-economy"><li>Huiyan Chen, Jing Peng, Jan Stallaert, and Sulin Ba. <a href="https://ssrn.com/abstract=4376582">The Value of Teamwork: Evidence from Crowdsourcing Contests</a>.</li></div>  */
 </ul>
 
 
