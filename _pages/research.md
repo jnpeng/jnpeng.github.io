@@ -24,7 +24,7 @@ Beyond empirical research, I have a deep interest in developing methodologies to
   <button class="btn" onclick="filterSelection('methodology')"> Methodology</button>
 </div>
 
-<h2 style="margin:1em 0 0 0">Publications</h2>
+<h2 style="margin:1em 0 0 0">Journal Publications</h2>
 
 <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
 <ol>
@@ -42,6 +42,16 @@ Beyond empirical research, I have a deep interest in developing methodologies to
   <div class="filterDiv machine-learning"><li>Jing Peng, Daniel Zeng, and Zan Huang (2011) <a href="https://doi.org/10.1145/2019618.2019621">Latent Subject-centered Modeling of Collaborative Tagging: An Application in Social Search</a>. <em>ACM Transactions on Management Information Systems</em>, 2(3): 1-23.</li></div>
 </ol>
 
+<div id="conference-paper-head">
+  <h2 style="margin:0em 0 0 0">Selected Conference Papers</h2>
+</div>
+
+<ul>
+  <div class="filterDiv experiment AI"><li>Zhuoyan Li, Chen Liang, Jing Peng, and Ming Yin. <a href="https://arxiv.org/abs/2410.04545">How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?</a> <em>The 2024 Conference on Empirical Methods in Natural Language Processing</em> (EMNLP 2024, top CS conference in Natural Language Processing)</li></div>
+  <div class="filterDiv experiment AI"><li>Zhuoyan Li, Chen Liang, Jing Peng, and Ming Yin. <a href="https://doi.org/10.1145/3613904.3642625">The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing</a>. <em>The 2024 ACM CHI Conference on Human Factors in Computing Systems</em> (CHI 2024, top CS conference in Human-Computer Interaction)</li></div>
+  <div class="filterDiv machine-learning"><li>Jing Peng, Daniel Zeng, Huimin Zhao, and Fei-Yue Wang. <a href="https://doi.org/10.1145/1871437.1871541">Collaborative Filtering in Social Tagging Systems Based on Joint Item-Tag Recommendations</a>. <em>The 19th ACM International Conference on Information and Knowledge Management</em> (CIKM 2010, top CS conference in Data Mining and Information Retrieval)</li></div>
+
+</ul>
 
 <div id="working-paper-head">
   <h2 style="margin:0em 0 0 0">Selected Working Papers</h2>
@@ -49,7 +59,7 @@ Beyond empirical research, I have a deep interest in developing methodologies to
 
 
 <ul>
-  <div class="filterDiv working methodology machine-learning"><li>Jing Peng. <a href="https://papers.ssrn.com/abstract=5008641">Machine Learning for Instrumental Variable Regression: From Bias to Resilience</a></li></div>
+  <div class="filterDiv working methodology machine-learning"><li>Jing Peng. <a href="https://papers.ssrn.com/abstract=5008641">Machine Learning for Instrumental Variable Regression: From Bias to Resilience</a>.</li></div>
   <div class="filterDiv working AI gig-economy experiment"><li>Chen Liang, Jing Peng, Zhuoyan Li, and Ming Yin. <a href="https://papers.ssrn.com/abstract_id=4825716">The Valuation Paradox of Generative AI: Evidence from Gig Workers</a>.</li></div>
   <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Hongfei Li, Jing Peng, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refundability on Sales of Digital Knowledge Products: The Moderating Role of Product Characteristics</a>.</li></div>
   <div class="filterDiv working ecommerce"><li>Huiyan Chen, Jing Peng, Mengcheng Guan, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4592999">Discounting to Win? The Impact of Team Purchase on Seller Performance</a>.</li></div>
