@@ -43,7 +43,7 @@ Beyond empirical research, I have a deep interest in developing methodologies to
 </ol>
 
 <div id="conference-paper-head">
-  <h2 style="margin:0em 0 0 0">Selected Conference Papers</h2>
+  <h2 style="margin:0em 0 0 0">Selected Conference Publications</h2>
 </div>
 
 <ul>

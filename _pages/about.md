@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Operations and Information Management at the School of Business, University of Connecticut. I received my Ph.D. in *Operations, Information and Decisions* from the Wharton School, University of Pennsylvania and my M.E. in *Computer Science* from the Institute of Automation, Chinese Academy of Sciences.
+I am an Associate Professor and the Ph.D. Coordinator of Operations and Information Management at the School of Business, University of Connecticut. I received my Ph.D. in *Operations, Information and Decisions* from the Wharton School, University of Pennsylvania and my M.E. in *Computer Science* from the Institute of Automation, Chinese Academy of Sciences.
 
 My research primarily uses empirical data to study the social and economic impact of emerging phenomena driven by technology innovations in online platforms, such as social media, e-commerce, gig economy, and digital health platforms. In addition to empirical research, I also have a keen interest in developing novel econometric methods to address statistical challenges facing empirical researchers.
 
