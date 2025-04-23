@@ -28,8 +28,8 @@ Beyond empirical research, I have a deep interest in developing methodologies to
 
 <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
 <ol>
-  <div class="filterDiv social-media ecommerce digital-health machine-learning"><li>Hongfei Li, Jing Peng, Gang Wang, and Xue Bai. <a href="https://doi.org/10.1287/isre.2019.0168">The Impact of Process- vs. Outcome-Oriented Reviews on the Sales of Healthcare Services</a>. <em>Information Systems Research</em> (forthcoming).</li></div>
-  <div class="filterDiv social-media experiment methodology"><li>Jing Peng and Christophe Van den Bulte. <a href="https://doi.org/10.1287/mnsc.2019.01897">Participation vs. Effectiveness in Sponsored Tweet Campaigns: A Quality-Quantity Conundrum</a>. <em>Management Science</em> (forthcoming).</li></div>
+  <div class="filterDiv social-media ecommerce digital-health machine-learning"><li>Hongfei Li, Jing Peng, Gang Wang, and Xue Bai (2024) <a href="https://doi.org/10.1287/isre.2019.0168">The Impact of Process- vs. Outcome-Oriented Reviews on the Sales of Healthcare Services</a>. <em>Information Systems Research</em>, 35(4):1909-1927.</li></div>
+  <div class="filterDiv social-media experiment methodology"><li>Jing Peng and Christophe Van den Bulte (2024) <a href="https://doi.org/10.1287/mnsc.2019.01897">Participation vs. Effectiveness in Sponsored Tweet Campaigns: A Quality-Quantity Conundrum</a>. <em>Management Science</em>, 70(11):7345-8215.</li></div>
   <div class="filterDiv ecommerce experiment machine-learning"><li>Jing Peng and Chen Liang (2023) <a href="https://doi.org/10.25300/MISQ/2022/17875">On the Differences Between View-Based and Purchase-Based Recommender Systems</a>. <em>MIS Quarterly</em>, 47(2):875-900.</li></div>
   <div class="filterDiv gig-economy experiment"><li>Chen Liang, Jing Peng, YiliHong, and Bin Gu (2023) <a href="https://pubsonline.informs.org/doi/10.1287/isre.2022.1130">The Hidden Costs and Benefits of Monitoring in the Gig Economy</a>. <em>Information Systems Research</em>, 34(1):297-318.</li></div>
   <div class="filterDiv ecommerce digital-health"><li>Hongfei Li, Jing Peng, Xinxin Li, and Jan Stallaert (2023) <a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.1129">When More Can Be Less: The Effect of Add-on Insurance on the Consumption of Professional Services</a>. <em>Information Systems Research</em>, 34(1):363-382.</li></div>
@@ -59,12 +59,11 @@ Beyond empirical research, I have a deep interest in developing methodologies to
 
 
 <ul>
-  <div class="filterDiv working methodology machine-learning"><li>Jing Peng. <a href="https://papers.ssrn.com/abstract=5008641">Machine Learning for Instrumental Variable Regression: From Bias to Resilience</a>.</li></div>
-  <div class="filterDiv working AI gig-economy experiment"><li>Chen Liang, Jing Peng, Zhuoyan Li, and Ming Yin. <a href="https://papers.ssrn.com/abstract_id=4825716">The Valuation Paradox of Generative AI: Evidence from Gig Workers</a>.</li></div>
-  <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Hongfei Li, Jing Peng, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refundability on Sales of Digital Knowledge Products: The Moderating Role of Product Characteristics</a>.</li></div>
-  <div class="filterDiv working ecommerce"><li>Huiyan Chen, Jing Peng, Mengcheng Guan, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4592999">Discounting to Win? The Impact of Team Purchase on Seller Performance</a>.</li></div>
-  <div class="filterDiv working AI ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions.</li></div>
-  <div class="filterDiv AI"><li>Zishun Qian, Jing Peng, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4957042">The Impact of Generative AI Announcements on Suppliers: Evidence from the Stock Market</a>.</li></div>
+  <div class="filterDiv working methodology machine-learning"><li>Jing Peng. <a href="https://papers.ssrn.com/abstract=5008641">Machine Learning for Instrumental Variable Regression: From Bias to Resilience</a>. (Under Revision)</li></div>
+  <div class="filterDiv working AI gig-economy experiment"><li>Chen Liang, Jing Peng, Zhuoyan Li, and Ming Yin. <a href="https://papers.ssrn.com/abstract_id=4825716">The Valuation of Generative AI in Content Creation: Evidence from Gig Workers</a>. (Under Revision)</li></div>
+  <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Hongfei Li, Jing Peng, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refundability on Sales of Digital Knowledge Products: The Moderating Role of Product Characteristics</a>. (Under Revision)</li></div>
+  <div class="filterDiv working AI ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions. (Under Revision)</li></div>
+  <div class="filterDiv AI"><li>Zishun Qian, Jing Peng, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4957042">The Impact of Generative AI Announcements on Suppliers: Evidence from the Stock Market</a>. (Under Revision)</li></div>
 </ul>
 
 
