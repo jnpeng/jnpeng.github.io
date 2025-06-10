@@ -64,6 +64,7 @@ Beyond empirical research, I have a deep interest in developing methodologies to
   <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Hongfei Li, Jing Peng, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refundability on Sales of Digital Knowledge Products: The Moderating Role of Product Characteristics</a>. <em>Under Revision</em>.</li></div>
   <div class="filterDiv working AI ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions. <em>Under Revision</em>.</li></div>
   <div class="filterDiv AI"><li>Zishun Qian, Jing Peng, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4957042">The Impact of Generative AI Announcements on Suppliers: Evidence from the Stock Market</a>. <em>Under Revision</em>.</li></div>
+  <div class="filterDiv working ecommerce digital-health"><li>Ning Wang, Jing Peng, Raghuram Iyengar, Mengcheng Guan, and Jianbin Li. <a href="https://ssrn.com/abstract=5261195">Unboxing Privacy: How Discreet Packaging Shapes Consumer Purchases?</a>. <em>Under Review</em>.</li></div>
 </ul>
 
 
