@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research leverages empirical data to study the societal and economic impact of emerging phenomena fueled by technology innovations in online platforms, including e-commerce, social media, gig economy, and digital health. 
+My research leverages empirical data to study the societal and economic impact of emerging phenomena fueled by technology innovations in online platforms, including e-commerce, social media, gig economy, digital health, and human-AI interaction. 
 
 Beyond applied empirical work, I am deeply engaged in developing methodologies to address common statistical challenges in empirical research, particularly issues related to sample selection and endogeneity across diverse contexts. Recently, my methodological work has focused on exploring the opportunities and challenges of integrating machine learning into causal inference
 
