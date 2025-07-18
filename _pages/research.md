@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-My research leverages empirical data to study the societal and economic impact of emerging phenomena fueled by technology innovations in online platforms, including e-commerce, social media, gig economy, and digital health platforms. 
+My research leverages empirical data to study the societal and economic impact of emerging phenomena fueled by technology innovations in online platforms, including e-commerce, social media, gig economy, and digital health. 
 
-Beyond empirical research, I have a deep interest in developing methodologies to address common statistical challenges facing empirical researchers, such as sample selection in panel count data and endogeneity of mediators in mediation analysis. Lately, my research on methodology has been dedicated to exploring the opportunities and challenges of applying machine learning in causal inference.
+Beyond applied empirical work, I am deeply engaged in developing methodologies to address common statistical challenges in empirical research, particularly issues related to sample selection and endogeneity across diverse contexts. Recently, my methodological work has focused on exploring the opportunities and challenges of integrating machine learning into causal inference
 
 
 
@@ -59,12 +59,12 @@ Beyond empirical research, I have a deep interest in developing methodologies to
 
 
 <ul>
-  <div class="filterDiv working methodology machine-learning"><li>Jing Peng. <a href="https://papers.ssrn.com/abstract=5008641">Machine Learning for Instrumental Variable Regression: From Bias to Resilience</a>. <em>Under Revision</em>.</li></div>
-  <div class="filterDiv working AI gig-economy experiment"><li>Chen Liang, Jing Peng, Zhuoyan Li, and Ming Yin. <a href="https://papers.ssrn.com/abstract_id=4825716">The Valuation of Generative AI in Content Creation: Evidence from Gig Workers</a>. <em>Under Revision</em>.</li></div>
-  <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Hongfei Li, Jing Peng, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refundability on Sales of Digital Knowledge Products: The Moderating Role of Product Characteristics</a>. <em>Under Revision</em>.</li></div>
-  <div class="filterDiv working AI ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions. <em>Under Revision</em>.</li></div>
-  <div class="filterDiv AI"><li>Zishun Qian, Jing Peng, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4957042">The Impact of Generative AI Announcements on Suppliers: Evidence from the Stock Market</a>. <em>Under Revision</em>.</li></div>
-  <div class="filterDiv working ecommerce digital-health"><li>Ning Wang, Jing Peng, Raghuram Iyengar, Mengcheng Guan, and Jianbin Li. <a href="https://ssrn.com/abstract=5261195">Unboxing Privacy: How Discreet Packaging Shapes Consumer Purchases?</a>. <em>Under Review</em>.</li></div>
+  <div class="filterDiv AI"><li>Zishun Qian, Jing Peng, and Jianbin Li. <a href="https://papers.ssrn.com/abstract=4957042">The Impact of Generative AI Announcements on Suppliers: Evidence from the Stock Market</a>. <em>Minor Revision at Production and Operations Management</em>.</li></div>
+  <div class="filterDiv working methodology machine-learning"><li>Jing Peng. <a href="https://papers.ssrn.com/abstract=5008641">Machine Learning for Instrumental Variable Regression: From Bias to Resilience</a>. <em>Under Revision at Management Science</em>.</li></div>
+  <div class="filterDiv working AI gig-economy experiment"><li>Chen Liang, Jing Peng, Zhuoyan Li, and Ming Yin. <a href="https://papers.ssrn.com/abstract_id=4825716">The Valuation of Generative AI in Content Creation: Evidence from Gig Workers</a>. <em>Under Revision at MIS Quarterly</em>.</li></div>
+  <div class="filterDiv working ecommerce methodology"><li>Huiyan Chen, Hongfei Li, Jing Peng, and Ramesh Shankar. <a href="https://ssrn.com/abstract=4114972">Impact of Refundability on Sales of Digital Knowledge Products: The Moderating Role of Product Characteristics</a>. <em>Under Revision at MIS Quarterly</em>.</li></div>
+  <div class="filterDiv working AI ecommerce digital-health"><li>Tong Shen, Chen Liang, Jing Peng, Mengcheng Guan, and Jianbin Li. Breaking the Stigma: The Role of AI in Drug Purchases for Sensitive Health Conditions. <em>Under Revision at Information Systems Research</em>.</li></div>
+  <div class="filterDiv working ecommerce digital-health"><li>Ning Wang, Jing Peng, Raghuram Iyengar, Mengcheng Guan, and Jianbin Li. <a href="https://ssrn.com/abstract=5261195">Unboxing Privacy: How Discreet Packaging Shapes Consumer Purchases?</a>. <em>Under Revision at Management Science</em>.</li></div>
 </ul>
 
 
