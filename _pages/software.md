@@ -4,7 +4,19 @@ permalink: /software/
 title: "Software"
 ---
 
-I have written three R packages for the novel methodologies developed in my research. They are all available at CRAN.
+I have written four R packages for the novel methodologies developed in my research. They are all available at CRAN.
+
+# PanelSelect [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/PanelSelect)](https://CRAN.R-project.org/package=PanelSelect)
+
+The [PanelSelect](https://cran.r-project.org/package=PanelSelect) package supports a series of panel sample selection models, where the first stage is a panel
+Probit model with individual random effects and the second stage can be a panel linear, Probit,
+Poisson, or Poisson log-normal model with individual random effects. A brief tutorial (vignette) for this package can be found [here](https://cran.rstudio.com/web/packages/PanelSelect/vignettes/vignette.html).
+
+To install the latest release on CRAN:
+
+``` r
+install.packages("PanelSelect")
+```
 
 # Endogeneity [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/endogeneity)](https://CRAN.R-project.org/package=endogeneity)
 
